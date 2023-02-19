@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ciao, I'm Lorenzo
 
-<!--
-**maxxer/maxxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Italian Linux System Administrator and Fullstack Web Developer.
 
-Here are some ideas to get you started:
+You can read my full CV at [maxxer.github.io](https://maxxer.github.io/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy IT, I like exploring new technologies and I'm a fan of optimization, security and speedup.
+I love leveraging all the possible language and framework tools to improve all these aspects of an application.
+
+
+* 🌍 My website: [lorenzo.mile.si](lorenzo.mile.si)
+* 🧢 View my [LinkedIn](https://linkedin.com/in/maxxer)
+* 📫 [lorenzo@mile.si](mailto:lorenzo@mile.si)
